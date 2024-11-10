@@ -42,9 +42,6 @@ Tomato is a full-featured, responsive food delivery application built using the 
 4. Run the Application:
    - Start the client: `npm start` from the client folder.
    - Start the server: `npm start` from the server folder.
-5. Access the Application:
-   - Frontend: [http://localhost:3000](http://localhost:3000)
-   - Backend: [http://localhost:5000](http://localhost:5000)
 
  Project Structure
 ```bash
